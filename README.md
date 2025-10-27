@@ -14,6 +14,16 @@
 ---
 
 ## 🧰 Cross‑Platform Environment Setup
+### 🧬 Install Conda (or Mamba)
+Go to the official installer page:  
+🔗 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+1. Download the installer for your operating system (Windows / macOS / Linux).  
+2. Follow the installation instructions.  
+3. After installation, verify by running:
+```bash
+conda --version
+```
+You should see output like conda `24.x.x`.
 
 ```bash
 # 1) Create environment
