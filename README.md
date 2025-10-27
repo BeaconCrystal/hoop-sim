@@ -1,6 +1,6 @@
 # 🏀 HoopSim: Predicting NBA Champions with Data and AI
 
-**Duration:** 4 weekends (~25–30 hours total, weekends only)  
+**Duration:** 4 weekends
 **Goal:** Build a full NBA season simulator that predicts which team is most likely to win the championship using real data and probability models.
 
 ---
